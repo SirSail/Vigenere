@@ -1,9 +1,9 @@
 # Vigenere
-Vigenère Cipher Cryptanalysis – a tool for breaking the cipher using frequency analysis.
+Vigenère Cipher Cryptanalysis in python – a tool for breaking the cipher using frequency analysis.
 ## 1. Wymagania wstępne
 
 - Python w wersji 3.x (zalecane 3.8 lub nowszy).
-- Brak dodatkowych bibliotek – kod korzysta wyłącznie ze standardowych modułów Pythona.
+- Komputer szybszy niż toster
 
 ## 2. Pobranie i zapisanie kodu
 
