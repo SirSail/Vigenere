@@ -53,3 +53,9 @@ python3 vigenere.py
   ```
   sudo python3 vigenere.py
   ```
+## 7. Autor i licencja
+
+Program wykonał Jakub Żegliński / SirSail , program jest otwarty na darmowy użytek, modyfikacje oraz dystrybucję.
+
+
+
